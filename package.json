@@ -1,0 +1,19 @@
+{
+  "name": "websocketboilerplate",
+  "version": "1.0.0",
+  "description": "websocket-express BP",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaseschneider/websocketBoilerPlate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaseschneider/websocketBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/nicolaseschneider/websocketBoilerPlate#readme"
+}
